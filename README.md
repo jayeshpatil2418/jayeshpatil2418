@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://linkedin.com/in/jayeshpatil2418" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://www.leetcode.com/jayeshpatil2418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayeshpatil2418"  width="42" height="50" /></a>
+  <a href="https://www.leetcode.com/jayeshpatil2418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayeshpatil2418"  width="40" height="52" style="vertical-align: middle;" /></a>
   <a href="https://x.com/jayeshpatil2418" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
   <a href="https://instagram.com/jayesh.patil2418" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
   <a href="https://youtube.com/@JayeshPatil2118" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
@@ -35,12 +35,6 @@
 </div>
 
 ###
-<p align="left">
-  
-<a href="https://linkedin.com/in/jayeshpatil2418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayeshpatil2418" height="30" width="40" /></a>
-<a href="https://instagram.com/jayesh.patil2418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayesh.patil2418" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jayeshpatil2418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayeshpatil2418" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
