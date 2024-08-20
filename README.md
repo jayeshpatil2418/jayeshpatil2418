@@ -20,6 +20,10 @@
 - 📄 Know about my experiences [Resume Link will be available soon...](Resume Link will be available soon...)
 
 - ⚡ Fun fact **I think I am funny**
+  
+- <p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
