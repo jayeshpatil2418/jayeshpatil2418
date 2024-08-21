@@ -9,19 +9,19 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🔭 I’m currently working on [College Event Management Application](project link will be soon available)
+- 🔭 I’m currently working on **Eventify: A College Event Organizer Application** (project link will be soon available)
 
 - 🌱 I’m currently learning **Flutter,Dart Programming Language**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 👨‍💻 All of my projects are available at [Project link will be available soon...](Project link will be available soon...)
+- 👨‍💻 All of my projects are available at (Project link will be available soon...)
 
 - 📫 How to reach me **jayeshpatil2418@gmail.com**
 
-- 📄 Know about my experiences [Resume Link will be available soon...](Resume Link will be available soon...)
+- 📄 Know about my experiences (Resume Link will be available soon...)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think My mind is Techie**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <div align="left">
